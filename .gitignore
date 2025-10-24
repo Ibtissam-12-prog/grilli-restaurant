@@ -11,3 +11,7 @@ image*.jpeg
 
 # PDF files
 *.pdf
+
+# Ignore grilli files (keep local copies but remove from repository)
+grilli.css
+grilli.html
