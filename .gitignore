@@ -1,0 +1,13 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Video files
+*.mp4
+
+# Image files not needed for the website
+WhatsApp*.jpg
+image*.jpeg
+
+# PDF files
+*.pdf
